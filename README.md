@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋 Soy Daniel A. Rentera</h1>
-<h3 align="center">Arquitecto de Plataformas y Servicios de TI | Desarrollador Web & Multiplataforma</h3>
+<h3 align="center">Desarrollador Web & Multiplataforma | Estudiante de Arquitectura de Plataformas y Servicios de TI</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=daniel-rentera&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="contador de visitas" />
@@ -9,9 +9,9 @@
 
 ### 🚀 Sobre mí
 
-- 🎓 Próximo **Arquitecto de Plataformas y Servicios de TI**, apasionado por construir soluciones web y móviles.
+- 🎓 Estudiante próximo a culminar la carrera técnica de **Arquitectura de Plataformas y Servicios de TI**.
 - 🌱 Trabajo con **React, Supabase y Flutter**, y me gusta llevar un proyecto desde la idea hasta verlo **en línea y funcionando**.
-- 💡 Me interesa la arquitectura de software, las bases de datos y el desarrollo full-stack.
+- 💡 Me interesa el desarrollo full-stack, las bases de datos y la arquitectura de software.
 - 📫 Contáctame: **danielrenteraespiritu@gmail.com**
 - 🌍 Perú
 
@@ -27,7 +27,6 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -36,12 +35,11 @@
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
+| 🏫 **Sistema de Consulta de Notas** | Sistema de gestión en 3 capas con conexión a base de datos, desarrollado para el instituto. | C#, .NET |
 | 🍸 **Alquitara VIP** | Plataforma web full-stack para una discoteca: reservas y gestión. | React, Supabase |
-| 🎨 **Regalo Web "Yarumy"** | Experiencia web interactiva con temática de Van Gogh. | HTML, CSS, JS |
 | 📱 **Apps Flutter** | Aplicaciones móviles multiplataforma. | Flutter, Dart |
-| 📊 **Sistema Consulta de Notas** | Sistema en 3 capas con conexión a base de datos. | C#, .NET |
 
-> *Próximamente: enlaces a cada repositorio y demos en vivo.*
+> 🚧 *Más proyectos en camino...*
 
 ---
 
